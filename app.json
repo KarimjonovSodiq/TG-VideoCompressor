@@ -10,7 +10,7 @@
     "bot"
   ],
   "success_url": "https://t.me/CC_Drive",
-  "website": "https://t.me/Cc_Drive,
+  "website": "https://t.me/Cc_Drive"
   "repository": "https://github.com/KarimjonovSodiq/TG-VideoCompressor",
   "env": {
     "ENV": {
